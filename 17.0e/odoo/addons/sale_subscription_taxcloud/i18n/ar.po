@@ -1,0 +1,55 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* sale_subscription_taxcloud
+#
+# Translators:
+# Mustafa Rawi <mustafa@cubexco.com>, 2019
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server saas~12.4+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-12 11:29+0000\n"
+"PO-Revision-Date: 2026-08-03 02:12+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Arabic <https://translate.odoo.com/projects/odoo-17/"
+"sale_subscription_taxcloud/ar/>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 2026.6.1\n"
+
+#. module: sale_subscription_taxcloud
+#: model_terms:ir.ui.view,arch_db:sale_subscription_taxcloud.portal_subscription
+msgid "(Not in"
+msgstr "(ليس في"
+
+#. module: sale_subscription_taxcloud
+#: model_terms:ir.ui.view,arch_db:sale_subscription_taxcloud.portal_subscription
+msgid "<abbr title=\"You need to be logged in as this subscription's customer to change country\">Taxes</abbr>:<br/>"
+msgstr ""
+"<abbr title=\"يجب عليك تسجيل دخولك بصفتك العميل صاحب هذا الاشتراك لتتمكن من "
+"تغيير الدولة\">الضرائب</abbr>:<br/>"
+
+#. module: sale_subscription_taxcloud
+#: model_terms:ir.ui.view,arch_db:sale_subscription_taxcloud.portal_subscription
+msgid "<strong>Next Billing Amount:</strong><br/>"
+msgstr "<strong>قيمة الفاتورة التالية:</strong><br/>"
+
+#. module: sale_subscription_taxcloud
+#: model:ir.model,name:sale_subscription_taxcloud.model_sale_subscription
+msgid "Subscription"
+msgstr "الاشتراك"
+
+#. module: sale_subscription_taxcloud
+#: model_terms:ir.ui.view,arch_db:sale_subscription_taxcloud.portal_subscription
+msgid "Subtotal:<br/>"
+msgstr "الإجمالي الفرعي:<br/>"
+
+#. module: sale_subscription_taxcloud
+#: model_terms:ir.ui.view,arch_db:sale_subscription_taxcloud.portal_subscription
+msgid "Taxes:<br/>"
+msgstr "الضرائب:<br/>"

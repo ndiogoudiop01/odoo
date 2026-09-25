@@ -1,0 +1,135 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# * theme_enark
+#
+# Weblate <noreply-mt-weblate@weblate.org>, 2025, 2026.
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 17.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-28 12:21+0000\n"
+"PO-Revision-Date: 2026-08-26 19:55+0000\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"Language-Team: Hindi <https://translate.odoo.com/projects/odoo-17/"
+"theme_enark/hi/>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2026.8.1\n"
+
+#. module: theme_enark
+#: model_terms:theme.ir.ui.view,arch:theme_enark.s_parallax
+msgid ""
+"<i>“One of the great beauties of architecture is that each time, it is like "
+"life starting all over again.”</i>"
+msgstr ""
+"<i>\"आर्किटेक्चर की खासियत यह है कि हर नया प्रोजेक्ट ज़िंदगी की एक नई शुरुआत जैसा लगता "
+"है.\"</i>"
+
+#. module: theme_enark
+#: model_terms:theme.ir.ui.view,arch:theme_enark.s_banner
+msgid "A Different Viewpoint."
+msgstr "एक अलग दृष्टिकोण।"
+
+#. module: theme_enark
+#: model_terms:theme.ir.ui.view,arch:theme_enark.s_call_to_action
+msgid "As <b>436 clients</b> before you, let’s work together"
+msgstr "आपसे पहले <b>436 क्लाइंट</b> की तरह, आइए साथ मिलकर काम करें"
+
+#. module: theme_enark
+#: model_terms:theme.ir.ui.view,arch:theme_enark.s_text_image
+msgid "Building Castle in Cloud"
+msgstr "हवा में महल बनाना"
+
+#. module: theme_enark
+#: model_terms:theme.ir.ui.view,arch:theme_enark.s_media_list
+msgid "Construction site"
+msgstr "कंस्ट्रक्शन साइट"
+
+#. module: theme_enark
+#: model_terms:theme.ir.ui.view,arch:theme_enark.s_picture
+msgid "Creating places that enhance the human experience."
+msgstr "ऐसी जगहें बनाना जो लोगों के अनुभव को और बेहतर बनाती हैं।"
+
+#. module: theme_enark
+#: model_terms:theme.ir.ui.view,arch:theme_enark.s_banner
+msgid "Discover More"
+msgstr "ज़्यादा जानें"
+
+#. module: theme_enark
+#: model_terms:theme.ir.ui.view,arch:theme_enark.enark_snippet_options
+msgid "Gradients"
+msgstr "ग्रेडिएंट"
+
+#. module: theme_enark
+#: model_terms:theme.ir.ui.view,arch:theme_enark.s_media_list
+msgid "Know our clients."
+msgstr "हमारे क्लाइंट को जानें।"
+
+#. module: theme_enark
+#: model_terms:theme.ir.ui.view,arch:theme_enark.s_media_list
+msgid "Nature friendly"
+msgstr "पर्यावरण के अनुकूल"
+
+#. module: theme_enark
+#: model_terms:theme.ir.ui.view,arch:theme_enark.enark_snippet_options
+msgid "None"
+msgstr "कोई नहीं"
+
+#. module: theme_enark
+#: model_terms:theme.ir.ui.view,arch:theme_enark.s_media_list
+msgid ""
+"Our creations integrate and are in perfect harmony with their environment."
+msgstr "हमारे बनाए डिज़ाइन आसपास के वातावरण के साथ पूरी तरह तालमेल बिठाते हैं।"
+
+#. module: theme_enark
+#: model_terms:theme.ir.ui.view,arch:theme_enark.s_media_list
+msgid ""
+"Our mastery of construction techniques has been built up over time through "
+"our close collaboration with the workers and our sustained presence on the "
+"construction sites."
+msgstr ""
+"मज़दूरों के साथ मिलकर काम करने और कंस्ट्रक्शन साइट पर लगातार मौजूद रहने की वजह से ही, "
+"समय के साथ-साथ हमने कंस्ट्रक्शन के काम में इतनी बेहतरीन महारत हासिल की है।"
+
+#. module: theme_enark
+#: model:ir.model,name:theme_enark.model_theme_utils
+msgid "Theme Utils"
+msgstr "थीम यूटिलिटीज़"
+
+#. module: theme_enark
+#: model_terms:theme.ir.ui.view,arch:theme_enark.s_picture
+msgid "We always put people and nature at the center of our projects."
+msgstr ""
+"हम अपने हर प्रोजेक्ट में लोगों और पर्यावरण का सबसे ज़्यादा ध्यान रखते हैं।"
+
+#. module: theme_enark
+#: model_terms:theme.ir.ui.view,arch:theme_enark.s_media_list
+msgid ""
+"We always start by exploring our clients goals, priorities, lifestyle, and "
+"tastes."
+msgstr ""
+"हम हमेशा ग्राहक की ज़रूरत, पसंद और लाइफस्टाइल को समझकर ही शुरुआत करते हैं।"
+
+#. module: theme_enark
+#: model_terms:theme.ir.ui.view,arch:theme_enark.s_banner
+msgid ""
+"We are a contemporary architecture firm working mainly in the residential, "
+"commercial and office sectors. Our projects are built all over the world, in"
+" urban and rural environments."
+msgstr ""
+"हम आज के ज़माने की बिल्डिंग डिज़ाइन करने वाली एक कंपनी हैं, जो ज़्यादातर घर, व्यापार की "
+"जगहें और ऑफ़िस बनाने का काम करती है. हमारे बनाए गए प्रोजेक्ट आपको पूरी दुनिया में, शहरों से "
+"लेकर गाँवों तक हर जगह देखने को मिल जाएंगे।"
+
+#. module: theme_enark
+#: model_terms:theme.ir.ui.view,arch:theme_enark.s_text_image
+msgid ""
+"When designing an architectural concept, we take into account the nine "
+"criteria that Zumthor considers to be important in creating an architectural"
+" atmosphere."
+msgstr ""
+"आर्किटेक्चरल कॉन्सेप्ट (वास्तुशिल्प अवधारणा) को डिज़ाइन करते समय, हम उन नौ मापदंडों को "
+"ध्यान में रखते हैं जिन्हें ज़ुम्थोर वास्तुशिल्प का वातावरण बनाने के लिए महत्वपूर्ण मानते हैं।"
